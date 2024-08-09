@@ -1,0 +1,12 @@
+G:\C#\apex_runner-1.4\apex runner\bin\Debug\apex runner.exe.config
+G:\C#\apex_runner-1.4\apex runner\bin\Debug\apex runner.exe
+G:\C#\apex_runner-1.4\apex runner\bin\Debug\apex runner.pdb
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\apex runner.csproj.AssemblyReference.cache
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\Interop.IWshRuntimeLibrary.dll
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\apex runner.csproj.ResolveComReference.cache
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\apex_runner.Form1.resources
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\apex_runner.Properties.Resources.resources
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\apex runner.csproj.GenerateResource.cache
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\apex runner.csproj.CoreCompileInputs.cache
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\apex runner.exe
+G:\C#\apex_runner-1.4\apex runner\obj\Debug\apex runner.pdb
